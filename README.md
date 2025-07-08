@@ -28,28 +28,41 @@ Explore geographic performance with an interactive map pinpointing sales hotspot
 
 ---
 
-## 🛠️ Tools and Technologies
-- **Microsoft Power BI Desktop**: For dashboard creation and visualization  
-- **DAX (Data Analysis Expressions)**: For advanced calculations and KPI metrics  
-- **Data Cleaning & Preparation**: Performed in Power Query  
+## 🚀 Key Features
+
+- Real-time KPI tracking for performance monitoring  
+- Multi-layered filters for detailed drill-downs  
+- Visual storytelling with diverse chart types  
+- Customer lifecycle insights (gained/lost customers)  
+- Territory-based sales intelligence  
+- Fully interactive and user-friendly Power BI dashboard
 
 ---
 
-## 💡 Why This Project Matters
+## 🛠️ Tools and Technologies
+- **Microsoft Power BI Desktop**
+- **Power Query**
+- **Data Cleaning**
+- **DAX (Data Analysis Expressions)**
+- **Data Modeling**   
+
+---
+
+## 📌 Project Significance
 In today’s competitive food delivery market, data-driven insights are critical for strategic planning and improving customer satisfaction. This dashboard enables Zomato and similar businesses to:
+- Identify top-performing cities 
 - Understand sales performance across different cities and years  
-- Analyze customer behavior and demographics  
+- Analyze customer behavior and demographics
 - Identify growth opportunities and areas for improvement  
 - Enhance marketing and operational strategies through actionable insights  
 
 ---
 
 ## 🔮 Future Work
-- **Real-time Data Integration**: Connect dashboard to live Zomato APIs for up-to-date metrics  
-- **Predictive Analytics**: Implement machine learning models to forecast sales and customer churn  
-- **Mobile-friendly Dashboard**: Optimize for accessibility on mobile devices  
-- **Enhanced User Segmentation**: Add more granular filters such as cuisine preference and order frequency  
-- **Automated Reporting**: Schedule email reports to stakeholders  
+- Integrate real-time APIs for live tracking  
+- Predictive analysis for future sales and customer churn  
+- Add sentiment analysis from customer reviews  
+- Expand occupation and food category breakdowns  
 
 ---
 
@@ -58,7 +71,7 @@ This Zomato Power BI Dashboard project showcases the power of data visualization
 
 ---
 
-## Additional Information
+## 📝 Additional Information
 - **Dataset Source**: [Mention if public or proprietary]  
 - **Contact**: [Your Email or LinkedIn] for questions or collaboration  
 - **License**: This project is intended for educational and portfolio purposes.
