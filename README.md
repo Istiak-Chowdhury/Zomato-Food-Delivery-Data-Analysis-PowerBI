@@ -24,9 +24,9 @@ Delivers a comprehensive overview of critical business KPIs such as revenue, sal
   - City, Year, Gender
 
 <br>
-
+<div align="center">
 <img src="https://github.com/Istiak-Chowdhury/Zomato-Food-Delivery-Data-Analysis-PowerBI/blob/main/ED.JPG?raw=true" width="700" />
-
+</div>
 
 ### 🧑‍🤝‍🧑 User Analysis  
 Provides detailed insights into customer engagement and behavior. Key metrics include total and active users, average order frequency, and demographic segmentation by age, gender, and occupation. The analysis further identifies customer acquisition and attrition trends to inform retention strategies.
