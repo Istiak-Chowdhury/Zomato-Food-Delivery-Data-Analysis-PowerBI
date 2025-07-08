@@ -43,7 +43,7 @@ Provides detailed insights into customer engagement and behavior. Key metrics in
 
 <br>
 
-![User Analysis](https://github.com/Istiak-Chowdhury/Zomato-Food-Delivery-Data-Analysis-PowerBI/blob/main/Usser%20Analysis.JPG?raw=true)
+![User Analysis](https://github.com/Istiak-Chowdhury/Zomato-Food-Delivery-Data-Analysis-PowerBI/blob/main/Usser%20Analysis.JPG?raw=true) width="500
 
 
 ### 📍 Territory Analysis  
