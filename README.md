@@ -18,7 +18,7 @@ Delivers a comprehensive overview of critical business KPIs such as revenue, sal
   - Total Orders
 - 2️⃣ Visuals:
   - Top 5, 10, 20, 50, 100 Sales Cities (Bar Chart)
-  - Sales by Year (Line Chart)
+  - Sales by Year
   - Veg vs. Non-Veg Sales and Ratings
 - 3️⃣ Filters:
   - City, Year, Gender
@@ -36,10 +36,10 @@ Provides detailed insights into customer engagement and behavior. Key metrics in
   - Average Orders per User
   - Average User Age
 - 2️⃣ Visuals:
-  - Order Distribution by Gender (Donut Chart)
-  - Order Distribution by Occupation (Donut Chart)
-  - User Count by Age Group (Bar Chart)
-  - Gained vs Lost Users (Clustered Bar Chart)
+  - Order Distribution by Gender
+  - Order Distribution by Occupation
+  - User Count by Age Group
+  - Gained vs Lost Users
 
 <br>
 
