@@ -22,6 +22,9 @@ Delivers a comprehensive overview of critical business KPIs such as revenue, sal
   - Veg vs. Non-Veg Sales and Ratings
 - 3️⃣ Filters:
   - City, Year, Gender
+
+<br>
+
 ![Executive Dashboard](https://github.com/Istiak-Chowdhury/Zomato-Food-Delivery-Data-Analysis-PowerBI/blob/main/ED.JPG?raw=true)
 
 
@@ -37,6 +40,9 @@ Provides detailed insights into customer engagement and behavior. Key metrics in
   - Order Distribution by Occupation (Donut Chart)
   - User Count by Age Group (Bar Chart)
   - Gained vs Lost Users (Clustered Bar Chart)
+
+<br>
+
 ![User Analysis](https://github.com/Istiak-Chowdhury/Zomato-Food-Delivery-Data-Analysis-PowerBI/blob/main/Usser%20Analysis.JPG?raw=true)
 
 
