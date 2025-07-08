@@ -27,12 +27,28 @@ Delivers a comprehensive overview of critical business KPIs such as revenue, sal
 
 ### 🧑‍🤝‍🧑 User Analysis  
 Provides detailed insights into customer engagement and behavior. Key metrics include total and active users, average order frequency, and demographic segmentation by age, gender, and occupation. The analysis further identifies customer acquisition and attrition trends to inform retention strategies.
-
+- 1️⃣ KPI Cards for:
+  - Active Users
+  - Total Users
+  - Average Orders per User
+  - Average User Age
+- 2️⃣ Visuals:
+  - Order Distribution by Gender (Donut Chart)
+  - Order Distribution by Occupation (Donut Chart)
+  - User Count by Age Group (Bar Chart)
+  - Gained vs Lost Users (Clustered Bar Chart)
 ![User Analysis](https://github.com/Istiak-Chowdhury/Zomato-Food-Delivery-Data-Analysis-PowerBI/blob/main/Usser%20Analysis.JPG?raw=true)
 
 
 ### 📍 Territory Analysis  
 Presents a spatial analysis of business performance across regions. Utilizing interactive maps and clustered bar charts, it visualizes sales, revenue, customer ratings, and active user distribution by city, enabling strategic geographic targeting and market expansion decisions.
+- 1️⃣ Visuals:
+  - Map Visualization by City
+  - Turnover by Region
+  - Ratings by City
+  - Active Users by City
+ 
+<br>
 
 ![Territory Analysis](https://github.com/Istiak-Chowdhury/Zomato-Food-Delivery-Data-Analysis-PowerBI/blob/main/Territory%20Analysis.JPG?raw=true)
 
@@ -76,7 +92,7 @@ In today’s competitive food delivery market, data-driven insights are critical
 
 ---
 
-## How to Use
+## 📖 How to Use
 1. Open the `.pbix` file in Power BI Desktop.  
 2. Use slicers to filter data by city, year, or gender.  
 3. Explore visuals including bar charts, line graphs, and KPI cards for detailed insights.  
@@ -86,16 +102,8 @@ In today’s competitive food delivery market, data-driven insights are critical
 
 ## ✅ Conclusion
 This Zomato Power BI Dashboard project showcases the power of data visualization in the food delivery industry. It demonstrates strong skills in data modeling, DAX calculations, and dashboard design—key competencies for roles in data analysis, business intelligence, and strategic planning. The project is a solid portfolio piece that reflects practical experience in delivering impactful insights from complex datasets.
+Let's connect and explore opportunities to leverage analytics for your business success!
 
 ---
-
-## 📝 Additional Information
-- **Dataset Source**: [Mention if public or proprietary]  
-- **Contact**: [Your Email or LinkedIn] for questions or collaboration  
-- **License**: This project is intended for educational and portfolio purposes.
-
----
-
-Thank you for checking out my project! Feel free to star ⭐ and fork the repo if you find it useful.
 
 
