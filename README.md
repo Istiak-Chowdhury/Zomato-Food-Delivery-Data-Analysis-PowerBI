@@ -11,7 +11,7 @@ The dashboard captures sales performance, user behavior, and territory insights,
 
 ### 🧭 Executive Dashboard  
 A comprehensive snapshot of Zomato’s core metrics, featuring intuitive KPI cards that highlight turnover, quantity sold, total ratings, and total orders. Interactive visualizations include a dynamic bar chart showcasing top-performing cities across multiple tiers (Top 5, 10, 20, 50, and 100), a smooth line graph illustrating sales trends over the years, and a detailed breakdown of vegetarian and non-vegetarian sales alongside rating insights. User-friendly slicers empower seamless filtering by city, year, and customer gender, enabling tailored data exploration.
-![Executive Dashboard]([./images/executive-dashboard.png](https://github.com/Istiak-Chowdhury/Zomato-Food-Delivery-Data-Analysis-PowerBI/blob/main/ED.JPG?raw=true))
+![Executive Dashboard]((https://github.com/Istiak-Chowdhury/Zomato-Food-Delivery-Data-Analysis-PowerBI/blob/main/ED.JPG?raw=true))
 
 ### 👥 User Analysis  
 Delve into customer behavior and engagement with KPI cards presenting active users, total users, average orders per user, and average age. Rich visual storytelling is provided through donut charts segmenting orders by gender and occupation, complemented by a bar chart analyzing user distribution by age groups. The section also reveals vital customer dynamics with insightful visualizations of customer acquisition and churn, illuminating growth patterns.
