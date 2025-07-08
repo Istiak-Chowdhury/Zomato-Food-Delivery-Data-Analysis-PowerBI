@@ -42,9 +42,9 @@ Provides detailed insights into customer engagement and behavior. Key metrics in
   - Gained vs Lost Users
 
 <br>
-
+<div align="center">
 <img src="https://github.com/Istiak-Chowdhury/Zomato-Food-Delivery-Data-Analysis-PowerBI/blob/main/Usser%20Analysis.JPG?raw=true" width="700" />
-
+</div>
 
 ### 📍 Territory Analysis  
 Presents a spatial analysis of business performance across regions. Utilizing interactive maps and clustered bar charts, it visualizes sales, revenue, customer ratings, and active user distribution by city, enabling strategic geographic targeting and market expansion decisions.
@@ -55,8 +55,9 @@ Presents a spatial analysis of business performance across regions. Utilizing in
   - Active Users by City
  
 <br>
-
+<div align="center">
 <img src="https://github.com/Istiak-Chowdhury/Zomato-Food-Delivery-Data-Analysis-PowerBI/blob/main/Territory%20Analysis.JPG?raw=true" width="700" />
+</div>
 
 ---
 
