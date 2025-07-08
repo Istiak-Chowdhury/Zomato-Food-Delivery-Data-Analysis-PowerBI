@@ -25,7 +25,7 @@ Delivers a comprehensive overview of critical business KPIs such as revenue, sal
 
 <br>
 
-![Executive Dashboard](https://github.com/Istiak-Chowdhury/Zomato-Food-Delivery-Data-Analysis-PowerBI/blob/main/ED.JPG?raw=true)
+<img src="https://github.com/Istiak-Chowdhury/Zomato-Food-Delivery-Data-Analysis-PowerBI/blob/main/ED.JPG?raw=true" width="700" />
 
 
 ### 🧑‍🤝‍🧑 User Analysis  
@@ -43,7 +43,7 @@ Provides detailed insights into customer engagement and behavior. Key metrics in
 
 <br>
 
-<img src="https://github.com/Istiak-Chowdhury/Zomato-Food-Delivery-Data-Analysis-PowerBI/blob/main/Usser%20Analysis.JPG?raw=true" width="500" />
+<img src="https://github.com/Istiak-Chowdhury/Zomato-Food-Delivery-Data-Analysis-PowerBI/blob/main/Usser%20Analysis.JPG?raw=true" width="700" />
 
 
 ### 📍 Territory Analysis  
@@ -56,7 +56,7 @@ Presents a spatial analysis of business performance across regions. Utilizing in
  
 <br>
 
-![Territory Analysis](https://github.com/Istiak-Chowdhury/Zomato-Food-Delivery-Data-Analysis-PowerBI/blob/main/Territory%20Analysis.JPG?raw=true)
+<img src="https://github.com/Istiak-Chowdhury/Zomato-Food-Delivery-Data-Analysis-PowerBI/blob/main/Territory%20Analysis.JPG?raw=true" width="700" />
 
 ---
 
