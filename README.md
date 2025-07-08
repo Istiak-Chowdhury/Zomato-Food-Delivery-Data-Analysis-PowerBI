@@ -7,7 +7,7 @@ The dashboard captures sales performance, user behavior, and territory insights,
 
 ---
 
-## 📊 Dashboard Pages & Features
+## 📊 Key Visualizations
 
 ### 💼 Executive Dashboard  
 Delivers a comprehensive overview of critical business KPIs such as revenue, sales volume, customer ratings, and order count. It highlights top-performing cities and sales trends over multiple years, supported by dynamic filtering capabilities for granular analysis by location, time period, and customer demographics.
