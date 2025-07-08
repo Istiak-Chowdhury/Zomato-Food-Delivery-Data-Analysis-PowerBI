@@ -11,16 +11,16 @@ The dashboard captures sales performance, user behavior, and territory insights,
 
 ### 💼 Executive Dashboard  
 Delivers a comprehensive overview of critical business KPIs such as revenue, sales volume, customer ratings, and order count. It highlights top-performing cities and sales trends over multiple years, supported by dynamic filtering capabilities for granular analysis by location, time period, and customer demographics.
-- KPI Cards for:
+- 1️⃣ KPI Cards for:
   - Turnover
   - Quantity Sold
   - Total Ratings
   - Total Orders
-- Visuals:
+- 2️⃣ Visuals:
   - Top 5, 10, 20, 50, 100 Sales Cities (Bar Chart)
   - Sales by Year (Line Chart)
   - Veg vs. Non-Veg Sales and Ratings
-- Filters:
+- 3️⃣ Filters:
   - City, Year, Gender
 ![Executive Dashboard](https://github.com/Istiak-Chowdhury/Zomato-Food-Delivery-Data-Analysis-PowerBI/blob/main/ED.JPG?raw=true)
 
