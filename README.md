@@ -7,6 +7,11 @@ The dashboard captures sales performance, user behavior, and territory insights,
 
 ---
 
+## 🔗 Live Demo
+📍 [Zomato Data Analysis](https://app.powerbi.com/view?r=eyJrIjoiOGViN2YyMDMtMzc0MS00ZjUxLTkxMTUtZjQyNjgxZTJmMzU5IiwidCI6ImU3YWUzZWIzLTQwN2QtNDRhNy1hNmY3LWYzOWY1YTExZDMzNyIsImMiOjEwfQ%3D%3D&pageName=6edfb25056bad4751a3e) Live Power BI Dashboard
+
+---
+
 ## 📊 Key Visualizations
 
 ### 💼 Executive Dashboard  
@@ -61,10 +66,6 @@ Presents a spatial analysis of business performance across regions. Utilizing in
 
 ---
 
-## 🔗 Live Demo
-📍 [Click here](https://app.powerbi.com/view?r=eyJrIjoiOGViN2YyMDMtMzc0MS00ZjUxLTkxMTUtZjQyNjgxZTJmMzU5IiwidCI6ImU3YWUzZWIzLTQwN2QtNDRhNy1hNmY3LWYzOWY1YTExZDMzNyIsImMiOjEwfQ%3D%3D&pageName=6edfb25056bad4751a3e) to view the Live Power BI Dashboard
-
-
 ## 🚀 Key Features
 
 - Real-time KPI tracking for performance monitoring  
@@ -116,5 +117,3 @@ This Zomato Power BI Dashboard project showcases the power of data visualization
 Let's connect and explore opportunities to leverage analytics for your business success!
 
 ---
-
-
